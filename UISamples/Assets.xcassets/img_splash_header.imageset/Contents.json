@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "img_splash_header.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
